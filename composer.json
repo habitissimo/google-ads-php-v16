@@ -1,9 +1,10 @@
 {
-  "name": "googleads/google-ads-php",
-  "homepage": "https://github.com/googleads/google-ads-php",
+  "name": "habitissimo/google-ads-php",
+  "homepage": "https://github.com/habitissimo/google-ads-php-v16",
   "description": "Google Ads API client for PHP",
+  "version": "21.1.0",
   "require": {
-    "php": ">=8.0",
+    "php": ">=7.4",
     "google/gax": "^1.19.1",
     "grpc/grpc": "^1.36.0",
     "google/protobuf": "^3.21.5",
